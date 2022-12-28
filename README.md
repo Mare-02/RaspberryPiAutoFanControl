@@ -1,6 +1,8 @@
 # RaspberryPiAutoFanControl
 Python script for Raspberry Pi to automatically control a PWM Fan
 
+I bought these: https://amzn.eu/d/7JYcTCE
+
 1. Connect the Fans PWM cable to Pin 18
 
 2. Open the terminal and type
