@@ -11,7 +11,7 @@ sudo crontab -e
 3. It will ask you what editor you want to use.
 Just press 1 to use Nano
 
-4. add this lime at the bottom ("path" is the path of the file):
+4. add this lime at the bottom ("path" is the path to the file):
 ```
 @reboot python3 path/autoFanControl.py
 ```
