@@ -1,6 +1,8 @@
 # RaspberryPiAutoFanControl
 Python script for Raspberry Pi to automatically control a PWM Fan
 
+Connect the Fans PWM cable to Pin 18
+
 ```
 sudo crontab -e
 ```
